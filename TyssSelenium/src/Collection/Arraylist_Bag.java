@@ -16,12 +16,13 @@ public class Arraylist_Bag {
 		//System.out.println(bag);
 
 		ArrayList bag2=new ArrayList();
-		bag2.add(10);
+		bag2.add("dtuyuio");
 		bag2.add(20);
 		bag2.add(10);
 		bag2.add(true);
 		bag2.add( bag);
-		System.out.println(bag2);
+		System.out.println("<<<//>>>>");
+		System.out.println(bag2.get(0));
 
 		//		bag2.remove(2);
 		//		System.out.println(bag2);
